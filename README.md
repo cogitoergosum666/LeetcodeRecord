@@ -1,0 +1,2 @@
+# LeetcodeRecord
+for archieve purpose
